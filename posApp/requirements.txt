@@ -1,0 +1,9 @@
+asgiref==3.5.2
+Django==3.2
+django-shopping-cart==0.1
+mysqlclient==2.1.1
+psycopg2==2.9.5
+pytz==2022.4
+sqlparse==0.4.3
+django-bootstrap4 
+django-crispy-forms
